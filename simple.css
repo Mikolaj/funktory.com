@@ -1,3 +1,21 @@
 body {
-	background-color: white;
+    color: black;
+    background: white;
+}
+
+#logo {
+    text-align: left;
+}
+
+#logo_greek {
+    font-family: sans-serif;
+    font-size: 250%;
+    display: inline-block;
+    text-decoration: underline;
+}
+
+#logo_com {
+    font-family: monospace;
+    font-size: 250%;
+    display: inline-block;
 }
